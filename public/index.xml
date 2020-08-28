@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dag 1</title>
+      <link>http://example.org/voorb-wisk/dag1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/voorb-wisk/dag1/</guid>
+      <description>Dag 1 subjects t1 t2 t3 notes t1 testset.
+back to subjects
+t2 back to subjects
+t3 back to subjects
+notes back to subjects</description>
+    </item>
+    
+    <item>
+      <title>Default chapters</title>
+      <link>http://example.org/voorb-phys/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/voorb-phys/notes/</guid>
+      <description>Dag 1 subjects KHAN PHYS intro Khan integrals t2 t3 t4 Reoccuring Functions intro Vectors magnatude/size And Direction
+Velicity = 5/2 to the right = VELOCITY
+Scalors Magnitude / Size
+Snelheid is afstand/ tijd
+Displacement is defined to be the change in position of an object. It can be defined mathematically with the following equation:
+Displacement= ΔX=Xf−X0
+The triangle symbol Δ\DeltaΔdelta is the Greek capital letter delta. It is used in physics to represent the change in a variable.</description>
+    </item>
+    
+    <item>
+      <title>math is interesting</title>
+      <link>http://example.org/voorb-wisk/a-insteressant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/voorb-wisk/a-insteressant/</guid>
+      <description>math is interesting subjects t1 t2 t1 
+Oh bob kijk ne lelijke
+back to subjects
+t2 back to subjects
+t3 back to subjects
+t4 back to subjects</description>
+    </item>
+    
+    <item>
+      <title>Pellenberg voorb-notities</title>
+      <link>http://example.org/voorb-algemen/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/voorb-algemen/notes/</guid>
+      <description>Dag 1 subjects [Reoccuring Functions](#Reoccuring Functions) t2 t3 t4 Reoccuring Functions Inschrijving Ria vermote
+RiaVermote@Howest.be
+back to subjects
+t2 back to subjects
+t3 back to subjects
+t4 back to subjects</description>
+    </item>
+    
+    <item>
+      <title>vex</title>
+      <link>http://example.org/voorb-wisk/vex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/voorb-wisk/vex/</guid>
+      <description>Vex subjects test vex test. iets
+vex vex language reference 
+test \begin{bmatrix} 1 &amp;amp; 2 &amp;amp; 3\
+a &amp;amp; b &amp;amp; c \end{bmatrix}
+#bob the Builder
+&amp;mdash;this is a test
+this post
+[ test ] Subjects graph LR;A[Hard edge] --|Link text| B(Round edge)B -- C{Decision}C --|One| D[Result one]C --|Two| E[Result two]sequenceDiagramparticipant Aliceparticipant BobAlice-John: Hello John, how are you?loop HealthcheckJohn-John: Fight against hypochondriaendNote right of John: Rational thoughts prevail!</description>
+    </item>
+    
+  </channel>
+</rss>

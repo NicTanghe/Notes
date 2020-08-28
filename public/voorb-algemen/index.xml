@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voorb-algemen on My New Hugo Site</title>
+    <link>http://example.org/voorb-algemen/</link>
+    <description>Recent content in Voorb-algemen on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/voorb-algemen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pellenberg voorb-notities</title>
+      <link>http://example.org/voorb-algemen/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/voorb-algemen/notes/</guid>
+      <description>Dag 1 subjects [Reoccuring Functions](#Reoccuring Functions) t2 t3 t4 Reoccuring Functions Inschrijving Ria vermote
+RiaVermote@Howest.be
+back to subjects
+t2 back to subjects
+t3 back to subjects
+t4 back to subjects</description>
+    </item>
+    
+  </channel>
+</rss>
